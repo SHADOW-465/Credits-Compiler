@@ -1,0 +1,20 @@
+node_modules
+dist
+src-tauri/target
+.vercel
+.DS_Store
+public/sample.xlsx
+.gstack/
+src-tauri/gen
+tsconfig.tsbuildinfo
+
+# Client documents: confidential, never committed. Keep local copies in the project root.
+*.xlsx
+*.xls
+*.xlsm
+*.docx
+*.pdf
+
+# Local tooling
+.claude/
+.impeccable/
