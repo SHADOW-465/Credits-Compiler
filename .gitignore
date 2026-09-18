@@ -18,3 +18,8 @@ tsconfig.tsbuildinfo
 # Local tooling
 .claude/
 .impeccable/
+
+# Internal docs & specs
+docs/
+DESIGN.md
+PRODUCT.md
